@@ -7,11 +7,12 @@ Before committing to funding the Surf n' Shake Shop, W. Avy has requested analyt
 
 ## Results
 
-### 
+![June temperatures](June_temps.png)
+- Key Difference #1 - 
 
-### 
+- Key Difference #2
+- Key Difference #3
 
-### 
 
 ## Summary
 
